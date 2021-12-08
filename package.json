@@ -1,0 +1,16 @@
+{
+  "name": "testing_pdf_nodejs",
+  "version": "1.0.0",
+  "description": "used to generate invoice pdf of the product purchase ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishchit Malasana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15",
+    "pdfkit": "^0.13.0"
+  }
+}
